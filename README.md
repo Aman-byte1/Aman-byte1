@@ -1,11 +1,5 @@
 # Hi there, I'm Aman! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-<p align="center">
-  <a href="https://github.com/Aman-byte1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-byte1&layout=compact&theme=radical&langs_count=8" alt="Aman's Top Languages" />
-  </a>
-</p>
-
 ---
 
 I'm Aman, an **AI, Machine Learning, and NLP enthusiast** 🧠 from **Ethiopia 🇪🇹**. My mission is to pioneer advancements for my native language, **Amharic**, and other **low-resource languages**, leveraging the power of AI.
@@ -78,6 +72,12 @@ I'm driven to craft **intelligent solutions like LLM-powered chatbots** 💬 and
   </a>
 </p>
 
+---
+<p align="center">
+  <a href="https://github.com/Aman-byte1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-byte1&layout=compact&theme=radical&langs_count=8" alt="Aman's Top Languages" />
+  </a>
+</p>
 ---
 
 ### 🔗 Let's Connect & Collaborate:
