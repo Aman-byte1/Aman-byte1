@@ -16,7 +16,6 @@ I'm driven to craft **intelligent solutions like LLM-powered chatbots** 💬 and
 *   🤔 I'm actively seeking solutions and collaborations to overcome challenges with **compute power** for training and deploying large AI models. If you have ideas or resources, let's talk!
 *   💬 Ask me about **anything AI-related!** From fundamental concepts to advanced applications, or just general tech. I love a good discussion!
 *   😄 Pronouns: **He/Him**
-*   ⚡ Fun fact: **[Aman, please add a fun, non-technical fact about yourself here! e.g., "I can brew the perfect cup of Ethiopian buna (coffee)!" or "I'm an avid reader of sci-fi that explores AI futures!"]**
 
 ---
 
