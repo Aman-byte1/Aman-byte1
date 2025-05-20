@@ -67,7 +67,7 @@ I'm driven to craft **intelligent solutions like LLM-powered chatbots** 💬 and
   </a>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aman-byte1&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Aman-byte1&theme=radical&row=1&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
