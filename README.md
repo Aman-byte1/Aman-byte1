@@ -89,11 +89,13 @@ I'm always excited to connect with fellow tech enthusiasts, researchers, and pot
   </a>   
   <a href="mailto:geaman73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email geaman73@gmail.com"/>
+      <a href="t.me/@Am_Ais" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram%20channel%20-8A2BE2"/>
   </a>
   <!-- Aman, if you create a portfolio website, add it here! Example:
     
   <a href="[your-portfolio-url.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-MySite-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-MySite-blue?style=for-the-badge&logo=google-chrome&logoColor=white" r
   </a>
   -->
 </p>
