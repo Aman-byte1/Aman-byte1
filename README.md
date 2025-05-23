@@ -16,7 +16,6 @@ I'm driven to craft **intelligent solutions like LLM-powered chatbots** 💬 and
 *   📚 I’m a bit of a research nerd. I spend time reviewing papers and working on my own (unpublished) piece about LLMs for low-resource languages. My expertise spans **Large Language Models (LLMs)**, **Computer Vision (CV)**, **Machine Learning (ML)**, and **Natural Language Processing (NLP)**—and I’m always hungry to learn more. Check out my Telegram Channel.
 *   🤔 I'm actively seeking solutions and collaborations to overcome challenges with **compute power** for training and deploying large AI models. If you have ideas or resources, let's talk!
 *   💬 Ask me about **anything AI-related!** From fundamental concepts to advanced applications, or just general tech. I love a good discussion!
-*   😄 Pronouns: **He/Him**
 
 ---
 
